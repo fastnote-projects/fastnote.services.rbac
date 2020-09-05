@@ -1,0 +1,4 @@
+src/FastNote.Services.RBAC/bin/*
+src/FastNote.Services.RBAC/obj/*
+src/FastNote.Services.RBAC.Tests/bin/*
+src/FastNote.Services.RBAC.Tests/obj/*
